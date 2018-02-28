@@ -19,3 +19,4 @@ grad = (1/m) * (X' * (h - y) + lambda * new_theta);
 % X = x(i)
 % =============================================================
 end
+%--> I don't know the error 'end' in Octave =(
